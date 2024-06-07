@@ -4,6 +4,13 @@
       <br>
     <p>Stay tune</p>
 </div>
+<div style="text-align:center;">
+    <h1>Still On Development ;)</h1>
+    <img src="https://github.com/C241-PS306/.github/blob/main/profile/wearshare%202%201.png" width="40%">
+      <br>
+    <p>Stay tune</p>
+</div>
+
 
 ## About WearShare
 The growing concern of clothing waste alongside the urgent need for accessible clothing options highlights a significant environmental and social challenge, especially evident in urban and suburban areas. This problem arises from inefficient distribution channels, a lack of incentives for donation, and the prevalent cycle of overproduction in the fashion industry. Our project, WearShare, aims to develop an innovative application designed to connect potential donors with recipients, specifically targeting economically disadvantaged populations.
