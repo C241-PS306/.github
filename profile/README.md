@@ -5,6 +5,13 @@
     <p>Stay tune</p>
 </div>
 
+## About WearShare
+The growing concern of clothing waste alongside the urgent need for accessible clothing options highlights a significant environmental and social challenge, especially evident in urban and suburban areas. This problem arises from inefficient distribution channels, a lack of incentives for donation, and the prevalent cycle of overproduction in the fashion industry. Our project, WearShare, aims to develop an innovative application designed to connect potential donors with recipients, specifically targeting economically disadvantaged populations.
+The application will facilitate the efficient redistribution of surplus clothing (specifically shirts), reducing waste, and aiding those in need. Key research questions guiding our development include determining the most effective application features for optimizing donation processes and ensuring clothing suitability for redistribution. We intend to incorporate features that assess clothing condition, streamline the donation process, and provide real-time information on local needs.
+Our motivation is rooted in a deep-seated commitment to environmental sustainability and social equity. By leveraging technology, we aim to create a practical solution that addresses these pressing issues effectively, ensuring that resources are utilized where they are most needed. This project is not just a venture into technological innovation but a step towards a more sustainable and compassionate society.
+
+## How did our team come up with this project?
+This project began with our research that in Indonesia there are many unused clothes left over and there are still many people who need proper clothing. We realized that this issue is quite important to address, in Indonesia itself there are many orphanages that still lack proper clothing. We decided to develop an application specifically for donating used clothes to those in need, specifically for orphanages. We also initiated to help process textile waste from donated clothes. Thus this project is the result of a team collaboration that is determined to utilize technology for social good.
 
 ## Our Philanthropic Member
 
@@ -17,3 +24,8 @@
 | Muthia Rasikha Zahra  | M299D4KX1388 | Machine Learning   |
 | Mohammad Wahyu Bagus Dwi Satya  | C007D4KY0978 | Cloud Computing  |
 | Muhammad Adhi Gozalt  | C012D4KY0266 | Cloud Computing          |
+
+## Repositories
+- **Machine Learning:** 
+- **Mobile Android Development:** 
+- **Cloud Computing:** 
